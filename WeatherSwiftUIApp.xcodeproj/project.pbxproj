@@ -11,6 +11,7 @@
 		1EE7139B263358EE0021A8DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EE7139A263358EE0021A8DC /* ContentView.swift */; };
 		1EE7139D263358F30021A8DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EE7139C263358F30021A8DC /* Assets.xcassets */; };
 		1EE713A0263358F30021A8DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EE7139F263358F30021A8DC /* Preview Assets.xcassets */; };
+		1EE713A926344BAA0021A8DC /* SwitchButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EE713A826344BAA0021A8DC /* SwitchButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		1EE7139C263358F30021A8DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1EE7139F263358F30021A8DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1EE713A1263358F30021A8DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EE713A826344BAA0021A8DC /* SwitchButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				1EE71398263358EE0021A8DC /* WeatherSwiftUIAppApp.swift */,
 				1EE7139A263358EE0021A8DC /* ContentView.swift */,
+				1EE713A826344BAA0021A8DC /* SwitchButton.swift */,
 				1EE7139C263358F30021A8DC /* Assets.xcassets */,
 				1EE713A1263358F30021A8DC /* Info.plist */,
 				1EE7139E263358F30021A8DC /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1EE7139B263358EE0021A8DC /* ContentView.swift in Sources */,
+				1EE713A926344BAA0021A8DC /* SwitchButton.swift in Sources */,
 				1EE71399263358EE0021A8DC /* WeatherSwiftUIAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
